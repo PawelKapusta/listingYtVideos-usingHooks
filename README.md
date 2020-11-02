@@ -9,4 +9,4 @@
 
 
 [Project]: https://github.com/PawelKapusta/searchForYTvideos
-[Link]: https://listing-yt-videos.netlify.app/
+[Link]: https://listingyt-hooks.netlify.app/
